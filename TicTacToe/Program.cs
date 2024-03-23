@@ -4,7 +4,7 @@ class Program
 {
     static char[,] board = new char[3, 3];
 
-    static void Main(string[] args)
+    static void Mains(string[] args)
     {
         InitializeBoard();
         bool isGameOver = false;
